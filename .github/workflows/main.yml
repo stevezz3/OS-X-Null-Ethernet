@@ -17,8 +17,8 @@ jobs:
     env:
       JOB_TYPE: BUILD
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
+      - uses: actions/checkout@v5
         with:
           repository: acidanthera/MacKernelSDK
           path: MacKernelSDK
@@ -49,7 +49,7 @@ jobs:
     env:
       HOMEBREW_NO_INSTALL_CLEANUP: 1
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Install Dependency
         run: |
@@ -62,7 +62,7 @@ jobs:
     name: Analyze DSLs
     runs-on: macos-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Install Dependency
         run: |
