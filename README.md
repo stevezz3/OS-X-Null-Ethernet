@@ -166,6 +166,11 @@ http://www.insanelymac.com/forum/topic/295534-mac-app-store-access-with-nullethe
 
 ### Change Log:
 
+2026-04-27 v1.0.9
+
+- Changed name
+
+
 2025-06-13 v1.0.8
 
 - Cleaned Xcode project file and info.plist
