@@ -1,7 +1,7 @@
 Null Ethernet Network Driver (originally by RehabMan)
 ====
 
-[![Build Status](https://github.com/stevezhengshiqi/OS-X-Null-Ethernet/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/stevezhengshiqi/OS-X-Null-Ethernet/actions)
+[![Build Status](https://github.com/stevezz3/OS-X-Null-Ethernet/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/stevezz3/OS-X-Null-Ethernet/actions)
 
 The purpose of this driver is to enable Mac App Store access even if you don’t have a built-in Ethernet port with supporting drivers. The idea is to use a USB WiFi and this “fake ethernet” driver to make the system still allow Mac App Store access.
 
@@ -102,7 +102,7 @@ https://bitbucket.org/RehabMan/os-x-null-ethernet/downloads/</s>
 
 Downloads are available on GitHub Releases:
 
-https://github.com/stevezhengshiqi/OS-X-Null-Ethernet/releases
+https://github.com/stevezz3/OS-X-Null-Ethernet/releases
 
 These builds are 64-bit only. Don't expect them to work with the 32-bit kernel.
 
@@ -150,7 +150,7 @@ For `i386` users, they need to refer to [MacKernelSDK - Targeting i386](https://
 
 The source code is maintained at the following sites:
 
-https://github.com/stevezhengshiqi/OS-X-Null-Ethernet
+https://github.com/stevezz3/OS-X-Null-Ethernet
 
 ### Feedback:
 

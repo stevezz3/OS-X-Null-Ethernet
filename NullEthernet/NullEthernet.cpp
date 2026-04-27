@@ -1,4 +1,4 @@
-/* Modified by stevezhengshiqi: Modified default MAC address to follow OUI and spoof real Apple, Inc. interface.
+/* Modified by stevezz3: Modified default MAC address to follow OUI and spoof real Apple, Inc. interface.
  *
  */
 

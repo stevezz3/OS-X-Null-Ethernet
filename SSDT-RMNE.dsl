@@ -1,4 +1,4 @@
-/* Modified by stevezhengshiqi: Added _STA method to disable RMNE device when NOT in macOS.
+/* Modified by stevezz3: Added _STA method to disable RMNE device when NOT in macOS.
  *
  */
 
